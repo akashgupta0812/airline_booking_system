@@ -1,0 +1,10 @@
+_____________________Luxor Airlines____________________
+_____________________Ticket____________________________
+___________________________________________________________
+Customer ID:456
+Customer Name:Akash
+Customer Gender:Male
+	 Description
+
+Destination		Europe
+Flight cost :		35000
